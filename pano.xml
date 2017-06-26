@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node55">
+  <panorama hideabout="1" id="node55">
+    <input tile1url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_1.jpg" prev2url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_preview_0.jpg" prev5url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_preview_4.jpg" tile2url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_2.jpg" tilesize="2000" tile3url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_3.jpg" tile5url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_5.jpg" prev3url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_preview_3.jpg" tile0url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_0.jpg" tile4url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_4.jpg" prev1url="images/Loc-01_AtriumWest-updated-1stFL_complete_170209_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="50.44" fov="70" tilt="19.42"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="" skinid="hs" pan="49.66" tilt="-1.41" id="Point01" title="Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202" description="" url="{node10}"/>
+      <hotspot target="" skinid="hs2" pan="50.5" tilt="15.63" id="Point02" title="Loc-13_AtriumWest-2nd_Complete_161202" description="" url="{node13}"/>
+      <hotspot target="" skinid="hs3" pan="50.99" tilt="29.36" id="Point03" title="Loc-02_AtriumWest-updated-3rdFL_170206" description="" url="{node46}"/>
+      <hotspot target="" skinid="hs4" pan="51.26" tilt="40.17" id="Point04" title="Loc-08_AtriumNorth-4thFL_Update-Rolex_161202" description="" url="{node5}"/>
+      <hotspot target="" skinid="hs" pan="-58.75" tilt="-0.95" id="Point05" title="Loc-12_AtriumSouth-1stFl_Complete_161202" description="" url="{node12}"/>
+      <hotspot target="" skinid="hs2" pan="-49.96" tilt="11.66" id="Point06" title="Loc-04_AtriumWest-2ndFL-updated_170206" description="" url="{node49}"/>
+      <hotspot target="" skinid="hs4" pan="-51.1" tilt="43.27" id="Point08" title="Loc-11_AtriumSouth-4thFL_Complete_161202" description="" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input tile1url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_1.jpg" prev2url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_preview_0.jpg" prev5url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_preview_4.jpg" tile2url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_2.jpg" tilesize="2000" tile3url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_3.jpg" tile5url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_5.jpg" prev3url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_preview_3.jpg" tile0url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_0.jpg" tile4url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_4.jpg" prev1url="images/Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent|first" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="97/0/70" skinid="hs" pan="0.51" tilt="-0.66" id="Point01" title="Loc-09_AtriumNorthE-1stFL_Pview_160907" description="" url="{node9}"/>
+      <hotspot target="" skinid="hs2" pan="3.87" tilt="6.53" id="Point02" title="Loc-07_AtriumNorth-2ndFL_Update-Auto_161203" description="" url="{node3}"/>
+      <hotspot target="" skinid="hs" pan="-116.45" tilt="-1.13" id="Point03" title="Loc-01_AtriumWest-updated-1stFL_complete_170209" description="" url="{node55}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input tile1url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_1.jpg" prev2url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_preview_0.jpg" prev5url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_preview_4.jpg" tile2url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_2.jpg" tilesize="2000" tile3url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_3.jpg" tile5url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_5.jpg" prev3url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_preview_3.jpg" tile0url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_0.jpg" tile4url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_4.jpg" prev1url="images/Loc-09_AtriumNorthE-1stFL_Update-Auto_161203_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="115.36" fov="70" tilt="-0.01"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent|first" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="-137/0/70" skinid="hs" pan="-1.03" tilt="-0.3" id="Point01" title="Loc-10_AtriumNorthW-1stFL_Pview_160907" description="" url="{node10}"/>
+      <hotspot target="5/0/70" skinid="hs" pan="92.75" tilt="-0.83" id="Point02" title="Loc-06_AtriumSouth-1stFL_160531" description="" url="{node4}"/>
+      <hotspot target="" skinid="hs2" pan="-0.86" tilt="5.14" id="Point03" title="Loc-13_AtriumWest-2nd_Complete_161202" description="" url="{node13}"/>
+      <hotspot target="" skinid="hs3" pan="2.74" tilt="10.92" id="Point04" title="Loc-02_AtriumWest-updated-3rdFL_170206" description="" url="{node46}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input tile1url="images/Loc-06_AtriumSouth-1stFL_160531_o_1.jpg" prev2url="images/Loc-06_AtriumSouth-1stFL_160531_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-06_AtriumSouth-1stFL_160531_o_preview_0.jpg" prev5url="images/Loc-06_AtriumSouth-1stFL_160531_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-06_AtriumSouth-1stFL_160531_o_preview_4.jpg" tile2url="images/Loc-06_AtriumSouth-1stFL_160531_o_2.jpg" tilesize="2000" tile3url="images/Loc-06_AtriumSouth-1stFL_160531_o_3.jpg" tile5url="images/Loc-06_AtriumSouth-1stFL_160531_o_5.jpg" prev3url="images/Loc-06_AtriumSouth-1stFL_160531_o_preview_3.jpg" tile0url="images/Loc-06_AtriumSouth-1stFL_160531_o_0.jpg" tile4url="images/Loc-06_AtriumSouth-1stFL_160531_o_4.jpg" prev1url="images/Loc-06_AtriumSouth-1stFL_160531_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="renders|first" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="-7.31477/0/70" skinid="hs" pan="-92.55" tilt="-0.2" id="Point02" title="Loc-07_AtriumNorth-2ndFL_160427" description="" url="{node9}"/>
+      <hotspot target="115/0/70" skinid="hs" pan="-3.61" tilt="-0.85" id="Point04" title="Loc-12_AtriumSouth-1stFl_Complete_161202" description="" url="{node12}"/>
+      <hotspot target="" skinid="hs2" pan="-3.85" tilt="8.34" id="Point01" title="Loc-05_AtriumNorth-2ndFL_160531" description="" url="{node57}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input tile1url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_1.jpg" prev2url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_preview_0.jpg" prev5url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_preview_4.jpg" tile2url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_2.jpg" tilesize="2000" tile3url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_3.jpg" tile5url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_5.jpg" prev3url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_preview_3.jpg" tile0url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_0.jpg" tile4url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_4.jpg" prev1url="images/Loc-12_AtriumSouth-1stFl_Complete_161202_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="74.89" fov="70" tilt="0.04"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent|first" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="-114.208/0/70" skinid="hs" pan="-0.21" tilt="-1.41" id="Point01" title="Loc-06_AtriumSouth-1stFL_160531" description="" url="{node4}"/>
+      <hotspot target="" skinid="hs" pan="108.34" tilt="-0.64" id="Point02" title="Loc-01_AtriumWest-updated-1stFL_complete_170209" description="" url="{node55}"/>
+      <hotspot target="" skinid="hs2" pan="0.39" tilt="11.57" id="Point03" title="Loc-05_AtriumNorth-2ndFL_160531" description="" url="{node57}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node13">
+    <input tile1url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_1.jpg" prev2url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_preview_0.jpg" prev5url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_preview_4.jpg" tile2url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_2.jpg" tilesize="2000" tile3url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_3.jpg" tile5url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_5.jpg" prev3url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_preview_3.jpg" tile0url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_0.jpg" tile4url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_4.jpg" prev1url="images/Loc-13_AtriumWest-2nd_Complete_161202_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent|second" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="100/0/70" skinid="hs2" pan="4.19" tilt="-0.55" id="Point01" title="Loc-07_AtriumNorth-2ndFL_160923" description="" url="{node3}"/>
+      <hotspot target="" skinid="hs" pan="0" tilt="-6.97" id="Point04" title="Loc-09_AtriumNorthE-1stFL_Update-Auto_161203" description="" url="{node9}"/>
+      <hotspot target="" skinid="hs2" pan="-90.39" tilt="-0.74" id="Point02" title="Loc-04_AtriumWest-2ndFL-updated_170206" description="" url="{node49}"/>
+      <hotspot target="" skinid="hs3" pan="0.3" tilt="13.47" id="Point05" title="Loc-03_AtriumNorth-updated-3rdFL_170208" description="" url="{node54}"/>
+      <hotspot target="" skinid="hs" pan="-121.39" tilt="-6.69" id="Point03" title="Loc-01_AtriumWest-updated-1stFL_complete_170209" description="" url="{node55}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input tile1url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_1.jpg" prev2url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_preview_0.jpg" prev5url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_preview_4.jpg" tile2url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_2.jpg" tilesize="2000" tile3url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_3.jpg" tile5url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_5.jpg" prev3url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_preview_3.jpg" tile0url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_0.jpg" tile4url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_4.jpg" prev1url="images/Loc-07_AtriumNorth-2ndFL_Update-Auto_161203_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="104.36" fov="70" tilt="0.02"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="renders|second" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="-145/0/70" skinid="hs2" pan="4.23" tilt="-0.6" id="Point03" title="Loc-13_AtriumWest-2nd_Complete_161202" description="" url="{node13}"/>
+      <hotspot target="" skinid="hs4" pan="7.09" tilt="10.41" id="Point02" title="Loc-14_AtriumNE-4thFL_170129" description="" url="{node31}"/>
+      <hotspot target="" skinid="hs3" pan="4.56" tilt="6.15" id="Point01" title="Loc-03_AtriumNorth-updated-3rdFL_170208" description="" url="{node54}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node49">
+    <input tile1url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_1.jpg" prev2url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_preview_0.jpg" prev5url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_preview_4.jpg" tile2url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_2.jpg" tilesize="2000" tile3url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_3.jpg" tile5url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_5.jpg" prev3url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_preview_3.jpg" tile0url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_0.jpg" tile4url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_4.jpg" prev1url="images/Loc-04_AtriumWest-2ndFL-updated_170206_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="" skinid="hs2" pan="92.21" tilt="-0.93" id="Point01" title="Loc-13_AtriumWest-2nd_Complete_161202" description="" url="{node13}"/>
+      <hotspot target="" skinid="hs" pan="0.06" tilt="-7.75" id="Point02" title="Loc-06_AtriumSouth-1stFL_160531" description="" url="{node4}"/>
+      <hotspot target="" skinid="hs2" pan="0.32" tilt="-1.34" id="Point03" title="Loc-05_AtriumNorth-2ndFL_160531" description="" url="{node57}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node46">
+    <input tile1url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_1.jpg" prev2url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_preview_0.jpg" prev5url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_preview_4.jpg" tile2url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_2.jpg" tilesize="2000" tile3url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_3.jpg" tile5url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_5.jpg" prev3url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_preview_3.jpg" tile0url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_0.jpg" tile4url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_4.jpg" prev1url="images/Loc-02_AtriumWest-updated-3rdFL_170206_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="" skinid="hs3" pan="109.77" tilt="-0.87" id="Point02" title="Loc-03_AtriumNorth-updated-3rdFL_170208" description="" url="{node54}"/>
+      <hotspot target="" skinid="hs" pan="-28.69" tilt="-33.76" id="Point03" title="Loc-01_AtriumWest-updated-1stFL_complete_170209" description="" url="{node55}"/>
+      <hotspot target="" skinid="hs3" pan="10.37" tilt="-0.46" id="Point01" title="Loc-15_3rdFloor_SouthEast_170209" description="" url="{node56}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node57">
+    <input tile1url="images/Loc-05_AtriumNorth-2ndFL_160531_o_1.jpg" prev2url="images/Loc-05_AtriumNorth-2ndFL_160531_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-05_AtriumNorth-2ndFL_160531_o_preview_0.jpg" prev5url="images/Loc-05_AtriumNorth-2ndFL_160531_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-05_AtriumNorth-2ndFL_160531_o_preview_4.jpg" tile2url="images/Loc-05_AtriumNorth-2ndFL_160531_o_2.jpg" tilesize="2000" tile3url="images/Loc-05_AtriumNorth-2ndFL_160531_o_3.jpg" tile5url="images/Loc-05_AtriumNorth-2ndFL_160531_o_5.jpg" prev3url="images/Loc-05_AtriumNorth-2ndFL_160531_o_preview_3.jpg" tile0url="images/Loc-05_AtriumNorth-2ndFL_160531_o_0.jpg" tile4url="images/Loc-05_AtriumNorth-2ndFL_160531_o_4.jpg" prev1url="images/Loc-05_AtriumNorth-2ndFL_160531_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="160531 - finals turned wood" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="" skinid="hs" pan="-2.18" tilt="-10.22" id="Point01" title="Loc-06_AtriumSouth-1stFL_160531" description="" url="{node4}"/>
+      <hotspot target="" skinid="hs" pan="-176.1" tilt="-15.32" id="Point02" title="Loc-12_AtriumSouth-1stFl_Complete_161202" description="" url="{node12}"/>
+      <hotspot target="" skinid="hs2" pan="-176.49" tilt="-1.48" id="Point03" title="Loc-04_AtriumWest-2ndFL-updated_170206" description="" url="{node49}"/>
+      <hotspot target="" skinid="hs3" pan="-176.02" tilt="12.84" id="Point04" title="Loc-15_3rdFloor_SouthEast_170209" description="" url="{node56}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node54">
+    <input tile1url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_1.jpg" prev2url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_preview_0.jpg" prev5url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_preview_4.jpg" tile2url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_2.jpg" tilesize="2000" tile3url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_3.jpg" tile5url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_5.jpg" prev3url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_preview_3.jpg" tile0url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_0.jpg" tile4url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_4.jpg" prev1url="images/Loc-03_AtriumNorth-updated-3rdFL_170208_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="renders" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="" skinid="hs" pan="-179.46" tilt="-34.44" id="Point01" title="Loc-10_AtriumNorthW-1stFL_Update-Rolex_161202" description="" url="{node10}"/>
+      <hotspot target="" skinid="hs2" pan="-179.07" tilt="-19.7" id="Point02" title="Loc-13_AtriumWest-2nd_Complete_161202" description="" url="{node13}"/>
+      <hotspot target="" skinid="hs3" pan="-178.7" tilt="-2.2" id="Point03" title="Loc-02_AtriumWest-updated-3rdFL_170206" description="" url="{node46}"/>
+      <hotspot target="" skinid="hs4" pan="-179.01" tilt="16.72" id="Point04" title="Loc-08_AtriumNorth-4thFL_Update-Rolex_161202" description="" url="{node5}"/>
+      <hotspot target="" skinid="hs2" pan="4.7" tilt="-8.72" id="Point05" title="Loc-07_AtriumNorth-2ndFL_Update-Auto_161203" description="" url="{node3}"/>
+      <hotspot target="" skinid="hs4" pan="4.43" tilt="7.1" id="Point06" title="Loc-14_AtriumNE-4thFL_170129" description="" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node56">
+    <input tile1url="images/Loc-15_3rdFloor_SouthEast_170209_o_1.jpg" prev2url="images/Loc-15_3rdFloor_SouthEast_170209_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-15_3rdFloor_SouthEast_170209_o_preview_0.jpg" prev5url="images/Loc-15_3rdFloor_SouthEast_170209_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-15_3rdFloor_SouthEast_170209_o_preview_4.jpg" tile2url="images/Loc-15_3rdFloor_SouthEast_170209_o_2.jpg" tilesize="2000" tile3url="images/Loc-15_3rdFloor_SouthEast_170209_o_3.jpg" tile5url="images/Loc-15_3rdFloor_SouthEast_170209_o_5.jpg" prev3url="images/Loc-15_3rdFloor_SouthEast_170209_o_preview_3.jpg" tile0url="images/Loc-15_3rdFloor_SouthEast_170209_o_0.jpg" tile4url="images/Loc-15_3rdFloor_SouthEast_170209_o_4.jpg" prev1url="images/Loc-15_3rdFloor_SouthEast_170209_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="" skinid="hs" pan="1.59" tilt="-10.21" id="Point02" title="Loc-06_AtriumSouth-1stFL_160531" description="" url="{node4}"/>
+      <hotspot target="" skinid="hs3" pan="98.78" tilt="-0.44" id="Point03" title="Loc-02_AtriumWest-updated-3rdFL_170206" description="" url="{node46}"/>
+      <hotspot target="" skinid="hs2" pan="0.22" tilt="-16.16" id="Point01" title="Loc-05_AtriumNorth-2ndFL_160531" description="" url="{node57}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input tile1url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_1.jpg" prev2url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_preview_0.jpg" prev5url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_preview_4.jpg" tile2url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_2.jpg" tilesize="2000" tile3url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_3.jpg" tile5url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_5.jpg" prev3url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_preview_3.jpg" tile0url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_0.jpg" tile4url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_4.jpg" prev1url="images/Loc-08_AtriumNorth-4thFL_Update-Rolex_161202_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="105.91" fov="70" tilt="-0.01"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="renders|fourth" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="-34.2879/0/70" skinid="hs4" pan="12.96" tilt="-0.55" id="Point03" title="Loc-11_AtriumSouth-4thFL_Pview-2_161130" description="" url="{node11}"/>
+      <hotspot target="" skinid="hs4" pan="103.73" tilt="-0.53" id="Point01" title="Loc-14_AtriumNE-4thFL_170129" description="" url="{node31}"/>
+      <hotspot target="" skinid="hs" pan="-37.13" tilt="-42.27" id="Point02" title="Loc-01_AtriumWest-updated-1stFL_complete_170209" description="" url="{node55}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input tile1url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_1.jpg" prev2url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_preview_0.jpg" prev5url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_preview_4.jpg" tile2url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_2.jpg" tilesize="2000" tile3url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_3.jpg" tile5url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_5.jpg" prev3url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_preview_3.jpg" tile0url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_0.jpg" tile4url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_4.jpg" prev1url="images/Loc-11_AtriumSouth-4thFL_Complete_161202_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-5" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent|fourth" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="145/0/70" skinid="hs4" pan="97.34" tilt="-0.34" id="Point05" title="Loc-08_AtriumNorth-4thFL_160531" description="" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node31">
+    <input tile1url="images/Loc-14_AtriumNE-4thFL_170129_o_1.jpg" prev2url="images/Loc-14_AtriumNE-4thFL_170129_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-14_AtriumNE-4thFL_170129_o_preview_0.jpg" prev5url="images/Loc-14_AtriumNE-4thFL_170129_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-14_AtriumNE-4thFL_170129_o_preview_4.jpg" tile2url="images/Loc-14_AtriumNE-4thFL_170129_o_2.jpg" tilesize="2000" tile3url="images/Loc-14_AtriumNE-4thFL_170129_o_3.jpg" tile5url="images/Loc-14_AtriumNE-4thFL_170129_o_5.jpg" prev3url="images/Loc-14_AtriumNE-4thFL_170129_o_preview_3.jpg" tile0url="images/Loc-14_AtriumNE-4thFL_170129_o_0.jpg" tile4url="images/Loc-14_AtriumNE-4thFL_170129_o_4.jpg" prev1url="images/Loc-14_AtriumNE-4thFL_170129_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-104.15" fov="70" tilt="0.03"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="sent" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="" skinid="hs4" pan="3.49" tilt="-0.71" id="Point02" title="Loc-08_AtriumNorth-4thFL_Update-Rolex_161202" description="" url="{node5}"/>
+      <hotspot target="" skinid="hs3" pan="2.73" tilt="-5.54" id="Point03" title="Loc-02_AtriumWest-updated-3rdFL_170206" description="" url="{node46}"/>
+      <hotspot target="" skinid="hs3" pan="-0.85" tilt="-9.18" id="Point04" title="Loc-03_AtriumNorth-updated-3rdFL_170208" description="" url="{node54}"/>
+      <hotspot target="" skinid="hs5" pan="-114.74" tilt="5.47" id="Point01" title="Loc-16_5thFL_FortyFiveTen_170214" description="" url="{node58}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node58">
+    <input tile1url="images/Loc-16_5thFL_FortyFiveTen_170214_o_1.jpg" prev2url="images/Loc-16_5thFL_FortyFiveTen_170214_o_preview_2.jpg" levelingroll="0" levelingpitch="0" prev0url="images/Loc-16_5thFL_FortyFiveTen_170214_o_preview_0.jpg" prev5url="images/Loc-16_5thFL_FortyFiveTen_170214_o_preview_5.jpg" tilescale="1.005000" prev4url="images/Loc-16_5thFL_FortyFiveTen_170214_o_preview_4.jpg" tile2url="images/Loc-16_5thFL_FortyFiveTen_170214_o_2.jpg" tilesize="2000" tile3url="images/Loc-16_5thFL_FortyFiveTen_170214_o_3.jpg" tile5url="images/Loc-16_5thFL_FortyFiveTen_170214_o_5.jpg" prev3url="images/Loc-16_5thFL_FortyFiveTen_170214_o_preview_3.jpg" tile0url="images/Loc-16_5thFL_FortyFiveTen_170214_o_0.jpg" tile4url="images/Loc-16_5thFL_FortyFiveTen_170214_o_4.jpg" prev1url="images/Loc-16_5thFL_FortyFiveTen_170214_o_preview_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-31.44" fov="70" tilt="0.03"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata datetime="" latitude="" tags="renders" title="" longitude="" author="" source="" comment="" description="" info="" copyright=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label enabled="1" wordwrap="1" backgroundalpha="1" height="20" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" background="1" textcolor="0x000000" border="1" width="180"/>
+      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot target="" skinid="hs4" pan="-113.52" tilt="-7.84" id="Point01" title="Loc-14_AtriumNE-4thFL_170129" description="" url="{node31}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomout="0" type="crossdissolve" zoomoutpause="1" zoomin="0" blendtime="1" zoomfov="20"/>
+    <control hideabout="1" lockedmouse="0" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0" sensitivity="1" dblclickfullscreen="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" contextfullscreen="0" invertwheel="0"/>
+  </panorama>
+</tour>
