@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[About](https://github.com/mark2b7mil/about.md)
+[About](https://github.com/mark2b7mil/mark2b7mil.github.io/about.md)
 
 You can use the [editor on GitHub](https://github.com/mark2b7mil/mark2b7mil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
