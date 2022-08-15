@@ -1,6 +1,6 @@
 ---
-layout: page
 title: "About"
+layout: page
 permalink: https://mark2b7mil.github.io/exploringlinux.md
 ---
 
