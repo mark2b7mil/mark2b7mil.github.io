@@ -1,3 +1,5 @@
+---
+
 # Exploring Linux
 
 Everything in Linux is a file. It uses a tree like hierarchy file system. General files are typical files like audio, image, text, etc. Directory files are a warehouse for other file types, like folders in Windows. System files in Linux are in directories, not on drives, e.g. device files live in the dev directory. Naming is case sensitive. The command line only says something if something goes wrong.
