@@ -4,6 +4,10 @@ ___
 
 > Symmetric, asymmetric cryptography, and other things
 
+## [Containerization](containerization.md)
+
+> How VMs and sandboxing in operating systems
+
 ## [Exploring Linux](exploringlinux.md)
 
 > A look at how Linux works, what makes it different, and CLI commands
