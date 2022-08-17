@@ -1,5 +1,9 @@
 ___
 
+## [Intro to Cryptography](cryptographyintro.md)
+
+> Symmetric, asymmetric cryptography, and other things
+
 ## [Exploring Linux](exploringlinux.md)
 
 > A look at how Linux works, what makes it different, and CLI commands
