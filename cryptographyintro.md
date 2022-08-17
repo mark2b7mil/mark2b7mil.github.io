@@ -78,13 +78,21 @@ It is an algorithm that takes an arbitrary amount of data input (credential) and
 Since computing a digital signature over a large message can be an expensive process, creating a smaller representation of data using hashng allows to sign the hash instead of the data itself. 
 
 ##### Calculate hash:
+
 - h = H(m)
+
 Sign hash with private key:
+
 - S = Enc(Kprivate, h)
+
 Send m and S to recipient who can compute hash of message:
+
 - h = H(m)
+
 Check that signatures match:
+
 - h' = Dec(Kpub, S)
+
 If h' and h are the same then signature is verified.
 
 ## Public Key Infrastructure:
