@@ -60,15 +60,15 @@ telnet localhost 2> errorfile   = directs error messages from telnet localhost t
 
 ls file > dirlist 2>& err   = >& writes output from one file to input of another so the error output is redirected to standard ouput which in turn is directed to the file dirlist.‍
 
-| denotes a pipe and allows you to run 2 commands at the same time. This helps to create powerful commands.
-cat file | less   = reads the file and starts you at the top instead of the bottom
-cat file1 | grep ABC   = reds the file and looks for any occurrences of ABC
-command1 | command2   = filtered output from command1 goes to command2‍
+\| denotes a pipe and allows you to run 2 commands at the same time. This helps to create powerful commands.
+cat file \| less   = reads the file and starts you at the top instead of the bottom
+cat file1 \| grep ABC   = reds the file and looks for any occurrences of ABC
+command1 \| command2   = filtered output from command1 goes to command2‍
 
 Regular expressions are special characters that search data and check patterns in strings.
 
-- cat listings | grep ^a = matches lines that start with a
-- cat listings | grep a$ = matches lines that end with a
+- cat listings \| grep ^a = matches lines that start with a
+- cat listings \| grep a$ = matches lines that end with a
 - grep -E m\{2} = shows lines where there is an occurence of 2 m's in a row
 - grep "a\+t" = filters lines where a preceeds t
 
@@ -211,11 +211,11 @@ finger mark = gets user info of user mark
 - lp -n3 file1 = sends 3 copies of file1 to print
 - sudo apt-get install SoftwareName = installs software
 - mailx = email, need to install mailutils
-- > = redirects output and overwrites if file exists
-- >> = appends output to end of file
-- < = redirects input2
-- > = redirects error messages
-- >& = writes output from one file to input of another
+- \> = redirects output and overwrites if file exists
+- \>\> = appends output to end of file
+- \< = redirects input2
+- \> = redirects error messages
+- \>& = writes output from one file to input of another
 - grep = can scan a document, and can present it how you tell it to
 - grep -v = shows all lines that do not match search string
 - grep -c = displays only count of matching lines
@@ -230,7 +230,7 @@ finger mark = gets user info of user mark
 - ^ = matches start of string
 - $ = matches end of string
 - \+ = matches one or more occurrence of previous character
-- \? = matches zero or one occurrence of previous character
+- ? = matches zero or one occurrence of previous character
 - {n} = matches preceding character appearing n times exactly
 - {n,m} = matches preceding character not more than m times
 - {n, } = matches preceding character only when it appears n times or more
