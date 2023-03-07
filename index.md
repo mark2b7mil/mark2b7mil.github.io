@@ -1,6 +1,10 @@
 ___
 
 
+## [Networking Chapter 2](networkingch2.md)
+
+> Notes from chapter 2 of Computer Networking by Kurose
+
 ## [Networking Chapter 1](networkingch1.md)
 
 > Notes from chapter 1 of Computer Networking by Kurose
