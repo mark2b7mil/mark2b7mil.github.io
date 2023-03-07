@@ -1,5 +1,8 @@
 ___
 
+## [Networking Chapter 3](networkingch3.md)
+
+> Notes from chapter 3 of Computer Networking by Kurose
 
 ## [Networking Chapter 2](networkingch2.md)
 
