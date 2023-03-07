@@ -1,5 +1,10 @@
 ___
 
+
+## [Networking Chapter 1](networkingch1.md)
+
+> Notes from chapter 1 of Computer Networking by Kurose
+
 ## [Intro to Cryptography](cryptographyintro.md)
 
 > Symmetric, asymmetric cryptography, and other things
