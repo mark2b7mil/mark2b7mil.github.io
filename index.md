@@ -1,16 +1,28 @@
 ___
 
-## [Networking Chapter 3](networkingch3.md)
+## [Networking Chapter 1](networkingch1.md)
 
-> Notes from chapter 3 of Computer Networking by Kurose
+> Notes from chapter 1 of Computer Networking by Kurose
 
 ## [Networking Chapter 2](networkingch2.md)
 
 > Notes from chapter 2 of Computer Networking by Kurose
 
-## [Networking Chapter 1](networkingch1.md)
+## [Networking Chapter 3](networkingch3.md)
 
-> Notes from chapter 1 of Computer Networking by Kurose
+> Notes from chapter 3 of Computer Networking by Kurose
+
+## [Networking Chapter 4](networkingch4.md)
+
+> Notes from chapter 4 of Computer Networking by Kurose
+
+## [Networking Chapter 5](networkingch5.md)
+
+> Notes from chapter 5 of Computer Networking by Kurose
+
+## [Networking Chapter 6](networkingch6.md)
+
+> Notes from chapter 6 of Computer Networking by Kurose
 
 ## [Intro to Cryptography](cryptographyintro.md)
 
