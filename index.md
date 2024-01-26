@@ -1,5 +1,9 @@
 ___
 
+## [NIST Cloud Definition and Architecture](NIST_CloudArchitecture.md)
+
+> Synopsis of 2 basic NIST papers on cloud architecture
+
 ## [Networking Chapter 1](networkingch1.md)
 
 > Notes from chapter 1 of Computer Networking by Kurose
